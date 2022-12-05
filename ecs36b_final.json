@@ -1,0 +1,16 @@
+[
+    {
+        "name": "move",
+        "params": {
+            "action": "move object",
+            "location": {},
+	    "class_id": "class name",
+	    "object_id": "object id",
+	    "json_object": {}
+        },
+        "returns": {
+            "action": "response",
+	    "response": "jsonstr"
+        }
+    }
+]
